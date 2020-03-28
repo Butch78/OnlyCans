@@ -1,2 +1,2 @@
 # OnlyCans
-Reactjs webiste with a Flask Python Backend
+Reactjs website with a Flask Python Backend
